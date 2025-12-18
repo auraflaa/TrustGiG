@@ -34,9 +34,3 @@ The prototype implements a deterministic state machine within the `TrustGigEscro
 - `tests/`: Hardhat tests verifying Happy Path and Dispute Path logic.
 - `TrustGigEscrow.sol`: Primary smart contract governing trustless collaboration.
 
-## 🧪 Live Remix Environment
-
-You can open and experiment with the TrustGig smart contracts directly in Remix using the following link:
-
-- **Remix IDE (Solidity 0.8.31, London EVM)**:  
-  [https://remix.ethereum.org/?#nomobileredirect&lang=en&optimize&runs=200&evmVersion=london&version=soljson-v0.8.31+commit.fd3a2265.js](https://remix.ethereum.org/?#nomobileredirect&lang=en&optimize&runs=200&evmVersion=london&version=soljson-v0.8.31+commit.fd3a2265.js)
