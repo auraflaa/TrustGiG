@@ -1,4 +1,13 @@
+<div align="center">
+
 # TrustGig: The Architecture of Trustless Collaboration
+
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue.svg)](https://www.typescriptlang.org/)
+
+</div>
+
+---
 
 TrustGig is a decentralized labor marketplace designed to eliminate the "middleman tax" and solve the systemic issues of the gig economy. By replacing corporate intermediaries with autonomous smart contracts and community-driven arbitration, we create a platform where value flows directly from client to freelancer.
 
